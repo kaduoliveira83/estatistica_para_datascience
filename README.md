@@ -1,5 +1,5 @@
 Neste repositório coloco scripts elaborados no Google Colab.
-Eles podem ser usados de base para estudos de Estatísticas nos campos:
+Eles podem ser usados de base para estudos de Estatística nos campos:
 
 •	Descritivos 
 
